@@ -20,7 +20,7 @@
 * If target is found, return the target
 * Else return the start
 * Because when the condition is violated in the while loop: start = end + 1
-* ![#808080]`start  target  end              =>              end  target  start`
+* `start  target  end              =>              end  target  start`
 * So the answer is not in this range, and the smallest element which is greater than or equal to target is the start
 
 ### Link -> [Ceiling Program](https://github.com/smsatheesh/DSA-in-JAVA-with-Problems/blob/main/BinarySearch/Problems/Ceiling%20Problem/Ceiling.java) 
