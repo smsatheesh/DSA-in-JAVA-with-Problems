@@ -23,5 +23,5 @@
 * <span style="background-color:green"> start  target  end              =>              end  target  start </span>
 * So the answer is not in this range, and the smallest element which is greater than or equal to target is the start
 
-### [Ceiling Program] (https://github.com/smsatheesh/DSA-in-JAVA-with-Problems/blob/main/BinarySearch/Problems/Ceiling%20Problem/Ceiling.java) 
+### [Ceiling Program](https://github.com/smsatheesh/DSA-in-JAVA-with-Problems/blob/main/BinarySearch/Problems/Ceiling%20Problem/Ceiling.java) 
 ### Contributed by [Sm Satheesh](https://github.com/smsatheesh)
