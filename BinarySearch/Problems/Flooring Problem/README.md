@@ -23,5 +23,5 @@
 * `start  target  end              =>              end  target  start`
 * So the answer is not in this range, and the highest element which is greater than or equal to target is the start
 
-### Link -> [Ceiling Program](https://github.com/smsatheesh/DSA-in-JAVA-with-Problems/blob/main/BinarySearch/Problems/Ceiling%20Problem/Ceiling.java) 
+### Link -> [Flooring Program](https://github.com/smsatheesh/DSA-in-JAVA-with-Problems/blob/main/BinarySearch/Problems/Ceiling%20Problem/Ceiling.java) 
 ### Contributed by [Sm Satheesh](https://github.com/smsatheesh)
