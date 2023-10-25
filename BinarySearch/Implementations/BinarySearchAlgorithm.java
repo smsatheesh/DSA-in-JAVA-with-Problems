@@ -24,11 +24,7 @@ class BinarySearchAlgorithm {
 		int mid = low + ((high - low) / 2);
 	
 		if(low > high) {
-			
-			if(high > low && high < sz)
-				return low;
-			else
-				return -1;
+			return -1;
 		}else {
 			
 			if(arr[mid] == key)
