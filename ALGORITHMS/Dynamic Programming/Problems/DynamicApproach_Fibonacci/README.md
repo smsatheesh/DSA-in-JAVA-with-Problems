@@ -1,4 +1,4 @@
-> # Dynamic Programming <span style='color:red;'> .... </span> for Fibonacci Series ? `( JAVA version )`
+> # Dynamic Programming for Fibonacci Series ? `( JAVA version )`
 
 > * Get the number or value from the user.
 > * The program performs recursive logic and dispaly faster results to the user as compared to other logics
