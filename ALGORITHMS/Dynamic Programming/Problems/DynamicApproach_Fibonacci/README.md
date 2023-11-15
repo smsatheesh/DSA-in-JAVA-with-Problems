@@ -2,7 +2,7 @@
 
 * Get the number or value from the user.
 * The program performs recursive logic and dispaly faster results to the user as compared to other logics
-* This is the example problems for `usages of Dyanmic Programming`.
+* This is the example problems for `usages of *** Dyanmic Programming ***`.
 
 
 >>>  ***Dynamic Programming*** is a techinque that breaks the problems into sub-problems and save those results for future
