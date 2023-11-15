@@ -1,3 +1,6 @@
+```diff
+- red -
+- Red
 > # Dynamic Programming for Fibonacci Series ? `( JAVA version )`
 
 > * Get the number or value from the user.
