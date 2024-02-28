@@ -10,3 +10,12 @@
 		- Worst case  -> O(n)
 	2. Space Complexity 	-> O(1)
 	3. Avearage comparisons -> [(n+1) / 2]
+	
+## ADVANTAGES:
+	* Linear search can be used irrespective of whether the array is sorted or not. It can be used on arrays of any data type.
+	* Does not require any additional memory.
+	* It is a well-suited algorithm for small datasets.
+	
+## DISADVANTAGES:
+	* Linear search has a time complexity of O(N), which in turn makes it slow for large datasets.
+	* Not suitable for large arrays.
