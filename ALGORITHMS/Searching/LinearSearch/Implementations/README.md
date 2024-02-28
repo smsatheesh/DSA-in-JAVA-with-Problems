@@ -6,7 +6,7 @@
 ## DSA FACTS:
 
 	1. Time Complexity -> O(n)
-		- Best case 		 -> O(1)
-		- Worst case 		 -> O(n)
-	2. Space Complexity 	 -> O(1)
-	3. Avearage comparisons  -> [(n+1) / 2]
+		- Best case  -> O(1)
+		- Worst case  -> O(n)
+	2. Space Complexity 	-> O(1)
+	3. Avearage comparisons -> [(n+1) / 2]
