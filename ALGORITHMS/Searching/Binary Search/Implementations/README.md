@@ -18,3 +18,5 @@
 ## DISADVANTAGES:
 	* The array should be sorted.
 	* It requires that the data structured being searched to be stored in contiguous memory locations.
+
+### Contributed by [Sm Satheesh](https://github.com/smsatheesh)
