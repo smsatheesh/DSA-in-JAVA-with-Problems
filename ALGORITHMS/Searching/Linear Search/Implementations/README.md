@@ -19,3 +19,5 @@
 ## DISADVANTAGES:
 	* Linear search has a time complexity of O(N), which in turn makes it slow for large datasets.
 	* Not suitable for large arrays.
+
+### Contributed by [Sm Satheesh](https://github.com/smsatheesh)
