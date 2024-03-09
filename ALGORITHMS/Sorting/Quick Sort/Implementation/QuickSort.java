@@ -33,7 +33,6 @@ class QuickSort {
 		if( low < high ) {
 			
 			int par = partition( arr, low, high );
-			System.out.println(par);
 			quickSort( arr, low, par - 1 );
 			quickSort( arr, par + 1, high );
 		}
