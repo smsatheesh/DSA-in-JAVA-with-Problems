@@ -1,7 +1,7 @@
 import java.util.*;
 
 class CountSort {
-	static int[] sort( int[] arr, int N ) {
+	static int[] countSort( int[] arr, int N ) {
 		
 		int Max = Integer.MIN_VALUE, Min = Integer.MAX_VALUE;
 		int[] outputArray = new int[ N ];
@@ -41,7 +41,7 @@ class CountSort {
 		for(int loopVar = 0; loopVar < size; loopVar++)
 			arr[loopVar] = getInp.nextInt();
 
-		arr = sort( arr, arr.length );		
+		arr = countSort( arr, arr.length );		
 		System.out.println( "Count Sorted Array : " );
 		printArray( arr );
 	}
