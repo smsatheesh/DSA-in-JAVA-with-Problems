@@ -4,9 +4,9 @@
 * The order of operations may be  LIFO( Last In First Out ) or FILO( First In Last Out ).
 * Real world example, arrangments of plates stacked over one another in canteen, houses, etc.,
 
-##[ Implementations of Stack ]( https://github.com/smsatheesh/DSA-in-JAVA-with-Problems/tree/main/DATA%20STRUCTURES/Stack/Implementations ) 
+## [ Implementations of Stack ]( https://github.com/smsatheesh/DSA-in-JAVA-with-Problems/tree/main/DATA%20STRUCTURES/Stack/Implementations ) 
 
-##[ Problems Solving In Stack ]( https://github.com/smsatheesh/DSA-in-JAVA-with-Problems/tree/main/DATA%20STRUCTURES/Stack/Problems ) 
+## [ Problems Solving In Stack ]( https://github.com/smsatheesh/DSA-in-JAVA-with-Problems/tree/main/DATA%20STRUCTURES/Stack/Problems ) 
 
 ## APPPLICATIONS OF STACK:
 	
