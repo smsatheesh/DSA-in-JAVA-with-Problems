@@ -6,6 +6,6 @@
 
 ##[ Implementations of Stack ]( https://github.com/smsatheesh/DSA-in-JAVA-with-Problems/tree/main/DATA%20STRUCTURES/Stack/Implementations ) 
 
-##[ Problems Solving In Stack ](  ) 
+##[ Problems Solving In Stack ]( https://github.com/smsatheesh/DSA-in-JAVA-with-Problems/tree/main/DATA%20STRUCTURES/Stack/Problems ) 
 
 ### Contributed by [Sm Satheesh]( https://github.com/smatheesh )
