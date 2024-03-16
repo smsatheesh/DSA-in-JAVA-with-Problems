@@ -1,0 +1,19 @@
+public class Queue {
+		
+	public static void main( String[] args ) {
+		
+		Queue<Integer> queue = new ArrayDeque<Integer>();
+		queue.offer( 10 );
+		queue.offer( 20 );
+		queue.offer( 30 );
+		queue.offer( 40 );
+		
+		System.out.println( "Front element in the queue " + queue.peek());
+		System.out.println( "Removal of front element " + queue.poll());
+		System.out.println( "Removal of current front element " + queue.poll());
+		System.out.println( "Remaining elements in the queue are " + queue );
+		
+		System.out.println( "Queue contains element 20 ? " + queue.contains( 20 ));
+		System.out.println( "Queue contains element 30 ? " + queue.contains( 30 ));
+	}
+}
