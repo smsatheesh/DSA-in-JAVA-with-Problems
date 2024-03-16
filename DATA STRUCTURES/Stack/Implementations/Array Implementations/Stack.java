@@ -78,9 +78,9 @@ public class Stack {
 		s.push( 30 );
 		System.out.println( "Element " + s.pop() + " removed from the stack" );
 		System.out.println( "Size of the stack is " + s.size());
-        System.out.println( s.peek() + " is the top element" );
-        System.out.println( s.isEmpty() ? "Stack is Empty" : "Stack is not Empty" );
-        System.out.println( s.isFull() ? "Stack is Full" : "Stack is not Full" );
+	        System.out.println( s.peek() + " is the top element" );
+	        System.out.println( s.isEmpty() ? "Stack is Empty" : "Stack is not Empty" );
+	        System.out.println( s.isFull() ? "Stack is Full" : "Stack is not Full" );
 		print( s );
 		
 	}
