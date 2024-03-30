@@ -124,24 +124,24 @@ public class CircularLinkedList {
 		
 		Node head = null;
 		
-        head = insertLast (head, 12);
-        head = insertFirst (head, 16);
-        head = insertLast (head, 20);
-        head = insertLast (head, 24);
-        head = insertFirst (head, 30);
-        head = insertFirst (head, 22);
- 
-        displayList( head );
-        
-        System.out.println( "Total size of the list are: " + size( head ));
-        
-        head = deleteFirst( head );
-        displayList( head );
-        
-        head = deleteFirst( head );
-        displayList( head );
-        
-        head = deleteKthNode( head, 2 );
-        displayList( head );
+	        head = insertLast (head, 12);
+	        head = insertFirst (head, 16);
+	        head = insertLast (head, 20);
+	        head = insertLast (head, 24);
+	        head = insertFirst (head, 30);
+	        head = insertFirst (head, 22);
+	 
+	        displayList( head );
+	        
+	        System.out.println( "Total size of the list are: " + size( head ));
+	        
+	        head = deleteFirst( head );
+	        displayList( head );
+	        
+	        head = deleteFirst( head );
+	        displayList( head );
+	        
+	        head = deleteKthNode( head, 2 );
+	        displayList( head );
 	}
 }
