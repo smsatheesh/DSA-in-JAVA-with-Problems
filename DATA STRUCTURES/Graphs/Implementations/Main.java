@@ -36,6 +36,29 @@ class Main {
 				this.DFS( loop, visited );
 		}
 	}
+	
+	public void BFS( int start, boolean[] visited ) {
+		
+		List<Integer> queue = new LinkedList<Integer>();
+		queue.add( start );
+		visited[ start ] = true;
+		
+		while( !queue.isEmpty() ) {
+			
+			int valueTop = queue.get( 0 );
+			System.out.print( valueTop + " " );
+			queue.remove( queue.get( 0 ));
+			
+			for( int i = 0; i < this.vertex; i++ ) {
+				
+				if( adj[ valueTop ][ i ] == 1 && ( !visited[ i ] )) {
+					
+					queue.add( i );
+					visited[i] = true;
+				}
+			}
+		}
+	}
  	
 	public static void main(String[] args) { 
 
@@ -57,5 +80,12 @@ class Main {
 		// Perform Depth-First Search
 		System.out.print( "DFS of the graph and connected edges are : " );
 		obj.DFS( 0, visited );
-	} 
+		System.out.println();
+		
+		// Perform Breadth-First Search
+		Arrays.fill( visited, false );
+		System.out.print( "BFS of the graph and connected edges are : " );
+		obj.BFS( 0, visited );
+		System.out.println();	
+	}
 } 
