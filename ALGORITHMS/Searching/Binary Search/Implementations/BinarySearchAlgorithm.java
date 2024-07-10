@@ -23,7 +23,7 @@ class BinarySearchAlgorithm {
 		
 		int mid = low + ((high - low) / 2);
 	
-		if(low > high) {
+		if(low >= high) {
 			return -1;
 		}else {
 			
